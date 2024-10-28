@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UTSproject</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="login">Login\n</string>
+    <string name="register">Register Here</string>
+    <string name="food_list_title">Food and Beverages</string>
+    <string name="order_food">Order Food</string>
+    <string name="food_label">Food Name</string>
+    <string name="food_enter">Enter food name - Get From List</string>
+    <string name="servings_label">Number of Servings</string>
+    <string name="servings_enter">Enter number of servings</string>
+    <string name="order_name_label">Ordering Name</string>
+    <string name="order_name_enter">Ordering name by</string>
+    <string name="notes_label">Additional Notes</string>
+    <string name="notes_enter">Enter any additional notes</string>
+    <string name="place_order">Place Order</string>
+    <string name="food_desc">Description of the food.</string>
+    <string name="thanks">Thanks for your order and please wait for delivering by nearest courier</string>
+    <string name="back_to_menu">Back to Menu</string>
+</resources>
